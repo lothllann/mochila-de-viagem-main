@@ -45,7 +45,6 @@ form.addEventListener("submit", (e) => {
 })
 
 
-
 function criaElemento(item) {
 
     const novoItem = document.createElement('li');
